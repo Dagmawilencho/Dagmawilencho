@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dagmawi Lencho(duye)</h1>
 <h3 align="center">A passionate Fullstack developer from Ethiopia</h3>
+<img align="right" alt="Coding" width="400" src="https://embed-ssl.wistia.com/deliveries/99502bcb209db2a54baed5dd6aefa189c6b298a7.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagmawilencho&label=Profile%20views&color=0e75b6&style=flat" alt="dagmawilencho" /> </p>
 
